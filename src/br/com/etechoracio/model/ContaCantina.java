@@ -1,3 +1,7 @@
+package br.com.etechoracio.model;
+
+import br.com.etechoracio.enums.TipoContaEnum;
+
 public class ContaCantina {
 
     private TipoContaEnum tipoConta;
